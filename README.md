@@ -18,3 +18,5 @@ Bokeh 官方教程： https://docs.bokeh.org/en/latest/docs/user_guide.html
   (c)  统计最高10个省份
 
   (d)  美化目前的图形：坐标轴颜色及其透明度、on_change等。
+  
+- 2020/07/02  上述内容已经在`analysis.ipynb`文件中更新，`analysis.ipynb`是一个针对新冠疫情数据分析的代码，主要完成了数据可视化等方面的工作。
